@@ -1,5 +1,7 @@
 ## Hi there, I'm Reonharuto 👋
-I currently work in the manufacturing industry, but I’m hoping to pursue a career in system development in the future. I’m currently building a portfolio using Vue.js and Rails. My hobbies include programming, gadgets, and watching Vtubers’ casual chat streams.
+I currently work in the manufacturing industry, but I’m hoping to pursue a career in system development in the future.<br>
+I’m currently building a portfolio using Vue.js and Rails.<br>
+My hobbies include programming, gadgets, and watching Vtubers’ casual chat streams.
 
 ## Socials
 <a href="https://x.com/tsurtpircsav925"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" width="40" height="40" /></a>
